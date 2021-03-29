@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Decision-Tree",
+"productVersion": "0.1",
+"dataUrl": "WEBGL_Build_Prod.data.unityweb",
+"wasmCodeUrl": "WEBGL_Build_Prod.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL_Build_Prod.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.23f1"
+}
